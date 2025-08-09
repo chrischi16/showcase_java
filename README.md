@@ -1,5 +1,5 @@
 # showcase_java
-Einige Java-Programmieraufgaben die es im Semester gegeben hat.
+Einige Java-Programmieraufgaben die es im Semester gegeben hat (Fokus lag auf Objektorientierte Programmierung).
 
 - Basics
 - Konstruktor-/ Referenzarbeit
